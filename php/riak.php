@@ -22,7 +22,7 @@ use Basho\Riak\Node;
 
 $node = (new Node\Builder)
         ->atHost('127.0.0.1')
-        ->onPort(8087)
+        ->onPort(8098)
         ->build();
 
 $riak = new Riak([$node]);
