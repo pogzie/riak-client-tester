@@ -1,0 +1,14 @@
+/home/vagrant/riak-client-tester/dotnet/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/Newtonsoft.Json.dll
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/RiakClient.dll
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/protobuf-net.dll
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/TestConsoleApp.exe.config
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/TestConsoleApp.exe.mdb
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/TestConsoleApp.exe
+/home/vagrant/riak-client-tester/dotnet/obj/x86/Debug/TestConsoleApp.exe
+/home/vagrant/riak-client-tester/dotnet/obj/x86/Debug/TestConsoleApp.exe.mdb
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/Riak.exe.config
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/Riak.exe.mdb
+/home/vagrant/riak-client-tester/dotnet/bin/Debug/Riak.exe
+/home/vagrant/riak-client-tester/dotnet/obj/x86/Debug/Riak.exe
+/home/vagrant/riak-client-tester/dotnet/obj/x86/Debug/Riak.exe.mdb
