@@ -14,7 +14,7 @@ TODO:
 
 //require __DIR__ . '/../vendor/autoload.php';
 // Use the require code above if the location of this file is inside examples/
-//require "/root/riak-php-client/vendor/autoload.php";
+require "/root/riak-php-client/vendor/autoload.php";
 
 use Basho\Riak;
 use Basho\Riak\Command;

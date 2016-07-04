@@ -4,7 +4,9 @@ This unofficial Riak client tester scripts aims to get people started with devel
 
 ## Pre-requisites
 - You need to have a Riak OSS or Enterprise installed and know its HTTP or Protocol Buffer hostname/IP and port.
-- Take note that some of the scripts rely on a path where the Riak client libraries are installed. 
+- Take note that some of the scripts rely on a path where the Riak client libraries are installed.
 
 ## Disclaimer
 This code does not come with any warranty whatsoever. Do not blame the author for any untoward incident that happens to you, your family, your dog, or any of your property by using this code. Use wisely.
+
+Despite this code being written by a Basho Client Services Engineer for the sole purpose of testing, this is not to be used in production environments and whatever is written here does not necessarily reflect the opinions of Basho as a company. You may freely distribute this with or without attribution since the world revolves around love and free stuff.

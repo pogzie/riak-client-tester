@@ -50,7 +50,7 @@ func main() {
         cmd := &riak.PingCommand{}
         errCmd := cluster.Execute(cmd)
         if errCmd != nil {
-		fmt.Println(err.Error())
+		        fmt.Println(err.Error())
         } else {
 		fmt.Println("Ok.")
 	}
