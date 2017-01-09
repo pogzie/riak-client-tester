@@ -5,7 +5,7 @@
 4.) Run `nodejs riak.js`.
 
 TIP:
-- If it cant find the module, try `export NODE_PATH=/usr/local/lib/node_modules`
+- If it cant find the module, try `export NODE_PATH=/usr/lib/node_modules`
 
 TODO:
 - Better exception handling.
